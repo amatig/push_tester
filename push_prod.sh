@@ -7,7 +7,7 @@
 ENDPOINT=https://api.push.apple.com:443
 URLPATH=/3/device/
 
-BUNDLEID="com.teliqo.teliqopip.ft01.voip"
+BUNDLEID="xxx(.voip)"
 DEVICETOKEN="$1"
 
 URL=$ENDPOINT$URLPATH$DEVICETOKEN
