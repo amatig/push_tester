@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 
 # your team id located in the developer portal
-TEAMID=R23T3YEYBL
+TEAMID=xxx
 
 # your key id located in the developer portal
-KEYID=5BNR23P9TB
+KEYID=xxx
 
 # the path to the key file you have stored in a safe place
-SECRET="./AuthKey_5BNR23P9TB.p8"
+SECRET="./AuthKey_xxx.p8"
 
 # make input base64 url safe
 function base64URLSafe {
